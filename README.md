@@ -1,2 +1,2 @@
 # JuBoard
-Ergo Split Hall Effect Keyboard
+Full Sized Keyboar
